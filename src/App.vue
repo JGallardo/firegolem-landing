@@ -3,8 +3,8 @@ import HomeIntro from './components/HomeIntro.vue'
 </script>
 
 <template>
-  <header>
-    <div class="wrapper">
+  <header class="min-h-screen flex items-center">
+    <div class="w-full">
       <HomeIntro />
     </div>
   </header>
