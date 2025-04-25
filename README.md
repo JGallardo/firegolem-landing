@@ -1,29 +1,32 @@
-# firegolem-landing
+# Fire Golem – Landing Page 🚒
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the very beginning of **Fire Golem**, a scrappy, fire-ready project built with **Vue 3** + **Vite**. We're building smarter fire response tech—starting here, with a simple, clean landing page to tell our story.
 
-## Recommended IDE Setup
+## 💻 Local Dev Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Make sure you’ve got [VS Code](https://code.visualstudio.com/) with [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (turn off Vetur) for the smoothest Vue dev vibes.
 
-## Customize configuration
+## 🔧 Getting Started
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Clone this repo and run:
 
-## Project Setup
-
-```sh
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+To start the local dev server:
 
-```sh
+```bash
 npm run dev
 ```
 
-### Compile and Minify for Production
+To build it for production:
 
-```sh
+```bash
 npm run build
 ```
+
+## 🛠 Built With
+
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
